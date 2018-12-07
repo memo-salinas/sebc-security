@@ -1,0 +1,6 @@
+CLUSTER HOSTS:
+--------------
+
+ip-172-31-21-246.ec2.internal - LDAP server
+ip-172-31-109-90.ec2.internal
+ip-172-31-42-210.ec2.internal
